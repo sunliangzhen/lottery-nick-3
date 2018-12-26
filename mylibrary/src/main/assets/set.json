@@ -1,0 +1,49 @@
+{
+  "user_bg": "",
+  "user_logo": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1950881187,733287285&fm=27&gp=0.jpg",
+  "user_text": "登录/注册",
+  "main": [
+    {
+      "text": "版本更新",
+      "text_color": "#444444",
+      "text_size": "45",
+      "text_bg": "#ffffff",
+      "type": "1"
+    },
+    {
+      "text": "问题反馈",
+      "text_color": "#444444",
+      "text_size": "45",
+      "text_bg": "#ffffff",
+      "type": "2"
+    },
+    {
+      "text": "清理缓存",
+      "text_color": "#444444",
+      "text_size": "45",
+      "text_bg": "#ffffff",
+      "type": "3"
+    },
+    {
+      "text": "关于我们",
+      "text_color": "#444444",
+      "text_size": "45",
+      "text_bg": "#ffffff",
+      "type": "4"
+    },
+    {
+      "text": "任务记录",
+      "text_color": "#444444",
+      "text_size": "45",
+      "text_bg": "#ffffff",
+      "type": "5"
+    },
+    {
+      "text": "退出登录",
+      "text_color": "#444444",
+      "text_size": "45",
+      "text_bg": "#ffffff",
+      "type": "6"
+    }
+  ]
+}
