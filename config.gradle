@@ -52,7 +52,7 @@ ext {
             "xutils"                       : "org.xutils:xutils:3.3.36",
             "okgo"                         : "com.lzy.net:okgo:3.0.4",
             "okserver"                     : "com.lzy.net:okserver:2.0.5",
-            "unit"                         : "com.github.sunliangzhen:lottery-nick-2:1.0",
+            "unit"                         : "com.github.sunliangzhen:lottery-nick-3:1.1",
 
             //view
             "autolayout"                   : "com.zhy:autolayout:1.4.5",
